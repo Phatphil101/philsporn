@@ -1,0 +1,5 @@
+http://yoursite.com/ 1 daily
+http://yoursite.com/news.html 0.5
+http://yoursite.com/downloads.html 0.2 weekly
+http://yoursite.com/album.html 0 monthly
+http://yoursite.com/dynamic.php?test=yes&del=np 0 never
